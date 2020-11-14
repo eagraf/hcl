@@ -42,7 +42,11 @@ people to learn some set of Ruby.
 Because of this, we decided to create our own configuration language
 that is JSON-compatible. Our configuration language (HCL) is designed
 to be written and modified by humans. The API for HCL allows JSON
-as an input so that it is also machine-friendly (machines can generate
+as an input so that it is also machine-friendly (machines can genera
+
+
+
+te
 JSON instead of trying to generate HCL).
 
 Our goal with HCL is not to alienate other configuration languages.
