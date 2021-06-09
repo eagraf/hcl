@@ -16,7 +16,7 @@ geegeg
 
 HCL is also fully JSON compatible. That is, JSON can be used as a completely
 valid input to a system expecting HCL. This helps to make systems
-interoperable with other systems.
+interoperable with other systems.dwdw
 
 HCL is heavily inspired by
 [libucl](https://github.com/vstakhov/libucl),
