@@ -14,7 +14,7 @@ specifically targeted towards DevOps tools, servers, etc.
 
 geegeg
 
-HCL is also fully JSON compatible. That is, JSON can be used as a completely
+HCL is also fully JSON compatible. That is, JSON can be used as a completelydwdwwd
 valid input to a system expecting HCL. This helps to make systems
 interoperable with other systems.
 
